@@ -5,12 +5,12 @@ status:    "activo"
 pareja:    { char: 89, tipo: "pj" }
 familiar:  { id: 17, name: "Climber"}
 profesion: { id: 3, aprendiz: [0,2] }
-nivel:     5
+nivel:     7
 repu:      1
-cuerpo:    13
-mente:     4
+cuerpo:    11
+mente:     5
 mov:       7
-oro:       603
+oro:       459
 armadura:  2
 armas:
   - { id:  7}
